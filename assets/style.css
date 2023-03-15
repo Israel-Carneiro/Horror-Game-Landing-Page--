@@ -2,6 +2,9 @@
     --yellow: #FFC700;
     --white: #FFFFFF;
     --black: #040101;
+
+    --font-principal: 'Inter', sans-serif;
+    --font-titulo: 'Emilys Candy';
 }
 
 body {
