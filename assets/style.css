@@ -3,3 +3,7 @@
     --white: '#FFFFFF';
     --black: '#040101';
 }
+
+body {
+    background-image: url(image/background-image.png);
+}
