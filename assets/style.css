@@ -36,3 +36,12 @@ main {
 .subtitulo span {
     color: var(--yellow);
 }
+
+.titulo {
+    margin: .25rem 0;
+    font-family: var(--font-titulo);
+    font-weight: 400;
+    font-size: 4rem;
+    line-height: 5rem;
+    color: var(--yellow);
+}
