@@ -64,3 +64,10 @@ main {
     color: var(--white);
     opacity: 60%;
 }
+
+.link:last-child {
+    color: var(--black);
+    opacity: 100%;
+    background-color: var(--yellow);
+    text-decoration: none;
+}
