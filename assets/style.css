@@ -16,3 +16,9 @@ body {
 main {
     padding-top: 160px;
 }
+
+.subtitulo {
+    font-weight: 700;
+    font-size: 16px;
+    color: var(--white);
+}
