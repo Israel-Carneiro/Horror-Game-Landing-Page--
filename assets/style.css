@@ -14,12 +14,12 @@ body {
 }
 
 main {
-    padding-top: 160px;
+    padding-top: 10rem;
 }
 
 .subtitulo {
     font-weight: 700;
-    font-size: 16px;
+    font-size: 1rem;
     color: var(--white);
 }
 
