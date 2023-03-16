@@ -12,3 +12,7 @@ body {
     text-align: center;
     background-image: url(image/background-image.png);
 }
+
+main {
+    padding-top: 160px;
+}
