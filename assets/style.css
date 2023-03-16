@@ -8,6 +8,7 @@
 }
 
 body {
+    font-family: var(--font-principal);
     text-align: center;
     background-image: url(image/background-image.png);
 }
