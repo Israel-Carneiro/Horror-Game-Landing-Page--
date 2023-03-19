@@ -2,7 +2,7 @@
 
 ## Resultado do projeto
 
-<img src="screencapture-Horror-Game-Landing-Page-Rocketseat.png" alt="Screenshot do projeto">
+<img src="./image/screencapture-Horror-Game-Landing-Page-Rocketseat.png" alt="Screenshot do projeto">
 
 ## Referência
  
